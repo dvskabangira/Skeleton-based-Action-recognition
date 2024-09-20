@@ -7,6 +7,5 @@ The heatmaps at different timesteps are stacked along temporal dimensions to for
 
 ------
 ***Demo Results***
-
 <p align="center">
     <img src="https://github.com/dvskabangira/Skeleton-based-Action-recognition/blob/main/demo1.gif", width="540">
